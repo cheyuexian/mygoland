@@ -1,0 +1,4 @@
+serverhandle 实现了serverhttp接口
+type serverHandler struct {
+	srv *Server
+}
